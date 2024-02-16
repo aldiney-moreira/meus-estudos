@@ -1,8 +1,8 @@
 # Meus Estudos - 2024
 
 ## Cursos
-- [ ] Origamid | HTML / CSS
-- [ ] Origamid | JavaScript
+- [x] Origamid | HTML / CSS
+- [x] Origamid | JavaScript
 - [ ] Origamid | TypeScript
 - [ ] Loiane training | Angular
 - [ ] Origamid | Vue
