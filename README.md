@@ -1,12 +1,9 @@
 # Meus Estudos - 2024
 
 ## Cursos
-- [x] Origamid | HTML / CSS
-- [x] Origamid | JavaScript
 - [ ] Origamid | TypeScript
 - [ ] Loiane training | Angular
-- [ ] Origamid | Vue
-- [ ] Origamid | React
+- [ ] Loiane Training | CRUD Angular + Spring
 
 ## Livros
 - [ ] Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Y. Bhargava
