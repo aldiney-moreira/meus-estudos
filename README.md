@@ -1,8 +1,12 @@
 # Meus Estudos - 2024
 
+## Faculdade
+- [ ] Fundamentos e Arquitetura de Computadores
+- [ ] Redes de Computadores
+
 ## Cursos
 - [ ] Origamid | TypeScript
-- [ ] Loiane training | Angular
+- [ ] Loiane Training | Angular
 - [ ] Loiane Training | CRUD Angular + Spring
 
 ## Livros
