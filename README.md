@@ -11,7 +11,6 @@
 
 ## Livros
 - [ ] Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Y. Bhargava
-- [ ] Estruturas de Dados e Algoritmos com JavaScript - Loiane Groner
 
 ## Exercícios
 - [ ] Exercism | JavaScript
