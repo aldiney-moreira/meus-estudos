@@ -1,4 +1,4 @@
-# Meus Estudos - 2024
+# Meus Estudos
 
 ## Faculdade
 - [ ] Fundamentos e Arquitetura de Computadores
