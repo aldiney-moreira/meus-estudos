@@ -7,7 +7,6 @@
 ## Cursos
 - [ ] Origamid | TypeScript
 - [ ] Loiane Training | Angular
-- [ ] Loiane Training | CRUD Angular + Spring
 
 ## Livros
 - [ ] Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Y. Bhargava
