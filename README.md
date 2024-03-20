@@ -14,4 +14,3 @@
 ## Exercícios
 - [ ] Exercism | JavaScript
 - [ ] Exercism | TypeScript
-- [ ] Exercism | Java
