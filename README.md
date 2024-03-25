@@ -1,9 +1,5 @@
 # Meus Estudos
 
-## Faculdade
-- [ ] Fundamentos e Arquitetura de Computadores
-- [ ] Redes de Computadores
-
 ## Cursos
 - [ ] Origamid | TypeScript
 - [ ] Loiane Training | Angular
@@ -14,3 +10,7 @@
 ## Exercícios
 - [ ] Exercism | JavaScript
 - [ ] Exercism | TypeScript
+
+## Faculdade
+- [ ] Fundamentos e Arquitetura de Computadores
+- [ ] Redes de Computadores
