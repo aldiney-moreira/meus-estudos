@@ -1,16 +1,23 @@
 # Meus Estudos
 
-## Cursos
+## DEV
+
+### Cursos
 - [ ] Origamid | TypeScript
 - [ ] Loiane Training | Angular
 
-## Livros
+### Livros
 - [ ] Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos - Aditya Y. Bhargava
 
-## Exercícios
+### Exercícios
 - [ ] Exercism | JavaScript
 - [ ] Exercism | TypeScript
 
-## Faculdade
+### Faculdade
 - [ ] Fundamentos e Arquitetura de Computadores
 - [ ] Redes de Computadores
+
+## ING
+
+### Cursos
+- [ ] Kultivi | Inglês Online
