@@ -13,11 +13,13 @@
 - [ ] Exercism | JavaScript
 - [ ] Exercism | TypeScript
 
-### Faculdade
-- [ ] Fundamentos e Arquitetura de Computadores
-- [ ] Redes de Computadores
-
 ## ING
 
 ### Cursos
 - [ ] Kultivi | Inglês Online
+
+## ACA
+
+### Disciplinas 
+- [ ] Fundamentos e Arquitetura de Computadores
+- [ ] Redes de Computadores
