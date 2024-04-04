@@ -13,7 +13,7 @@
 ## ING
 
 ### Cursos
-- [ ] Kultivi | Inglês Online
+- [ ] Kultivi | Inglês Online [08/23]
 
 ### Exercícios
 - [ ] Lingua.com | **Input:** 30 reading e 5 listening
