@@ -22,5 +22,5 @@
 ## ACA
 
 ### Disciplinas 
-- [ ] Fundamentos e Arquitetura de Computadores
-- [ ] Redes de Computadores
+- [X] Fundamentos e Arquitetura de Computadores
+- [X] Redes de Computadores
