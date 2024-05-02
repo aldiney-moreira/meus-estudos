@@ -4,10 +4,9 @@
 
 ### Cursos
 - [ ] Origamid | TypeScript
-- [ ] Loiane Training | Angular
+- [ ] Origamid | Vue.js
 
 ### Exercícios
-- [ ] Exercism | JavaScript
 - [ ] Exercism | TypeScript
 
 ## ING
@@ -16,11 +15,13 @@
 - [ ] Kultivi | Inglês Online [08/23]
 
 ### Exercícios
-- [ ] Lingua.com | **Input:** 30 reading e 5 listening
-- [ ] Lingua.com | **Output:** 10 writing e 5 speaking
+- [ ] Lingua.com | **Input:** 25 reading e 10 listening
+- [ ] Lingua.com | **Output:** 05 writing e 05 speaking
 
 ## ACA
 
 ### Disciplinas 
 - [X] Fundamentos e Arquitetura de Computadores
 - [X] Redes de Computadores
+- [ ] GO - Projeto de Vida
+- [ ] Matemática Aplicada à Computação
