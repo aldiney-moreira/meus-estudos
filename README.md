@@ -3,8 +3,8 @@
 ## DEV
 
 ### Cursos
-- [ ] Origamid | TypeScript
 - [ ] Origamid | Vue.js
+- [ ] Origamid | TypeScript
 
 ### Exercícios
 - [ ] Exercism | TypeScript
