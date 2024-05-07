@@ -3,16 +3,17 @@
 ## DEV
 
 ### Cursos
-- [ ] Origamid | Vue.js
+- [ ] Origamid | Vue
 - [ ] Origamid | TypeScript
 
 ### Exercícios
+- [ ] Exercism | JavaScript
 - [ ] Exercism | TypeScript
 
 ## ING
 
 ### Cursos
-- [ ] Kultivi | Inglês Online [08/23]
+- [ ] Kultivi | Inglês Online
 
 ### Exercícios
 - [ ] Lingua.com | **Input:** 25 reading e 10 listening
