@@ -1,28 +1,17 @@
 # Meus Estudos
 
 ## DEV
-
-### Cursos
-- [ ] Origamid | Vue
-- [ ] Origamid | TypeScript
-
-### Exercícios
-- [ ] Exercism | JavaScript
-- [ ] Exercism | TypeScript
+- [ ] `curso` Origamid | Vue
+- [ ] `exercícios` Exercism | JavaScript
+- [ ] `projeto` Bookmark landing page
 
 ## ING
-
-### Cursos
-- [ ] Kultivi | Inglês Online
-
-### Exercícios
-- [ ] Lingua.com | **Input:** 25 reading e 10 listening
-- [ ] Lingua.com | **Output:** 05 writing e 05 speaking
+- [ ] `curso` Kultivi | Inglês Online
+- [ ] `exercícios` Lingua | **Input:** 20 reading e 10 listening
+- [ ] `exercícios` Lingua | **Output:** 05 writing e 05 speaking
 
 ## ACA
-
-### Disciplinas 
-- [X] Fundamentos e Arquitetura de Computadores
-- [X] Redes de Computadores
-- [ ] GO - Projeto de Vida
-- [ ] Matemática Aplicada à Computação
+- [X] `disciplina` Fundamentos e Arquitetura de Computadores
+- [X] `disciplina` Redes de Computadores
+- [X] `disciplina` GO - Projeto de Vida
+- [ ] `disciplina` Matemática Aplicada à Computação
