@@ -9,6 +9,7 @@
 - [ ] `curso` Kultivi | Inglês Online
 - [ ] `exercícios` Lingua | **Input:** 20 reading e 10 listening
 - [ ] `exercícios` Lingua | **Output:** 05 writing e 05 speaking
+- [ ] `prática` Alcançar nivel A2
 
 ## ACA
 - [X] `disciplina` Fundamentos e Arquitetura de Computadores
