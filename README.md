@@ -3,7 +3,7 @@
 ## DEV
 - [ ] `curso` Origamid | Vue
 - [ ] `exercícios` Exercism | JavaScript
-- [ ] `projeto` Bookmark landing page
+- [ ] `prática` Bookmark landing page
 
 ## ING
 - [ ] `curso` Kultivi | Inglês Online
