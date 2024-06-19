@@ -7,8 +7,7 @@
 
 ## ING
 - [ ] `curso` Kultivi | Inglês Online
-- [ ] `exercícios` Lingua | **Input:** 20 reading e 10 listening
-- [ ] `exercícios` Lingua | **Output:** 05 writing e 05 speaking
+- [ ] `exercícios` Lingua | **Input** e **Output**
 - [ ] `prática` Alcançar nivel A2
 
 ## ACA
