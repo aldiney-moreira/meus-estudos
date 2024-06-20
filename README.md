@@ -1,12 +1,12 @@
 # Meus Estudos
 
 ## DEV
-- [ ] `curso` Origamid | Vue
+- [ ] `teoria` Origamid | Vue
 - [ ] `exercícios` Exercism | JavaScript
 - [ ] `prática` Bookmark landing page
 
 ## ING
-- [ ] `curso` Kultivi | Inglês Online
+- [ ] `teoria` Kultivi | Inglês Online
 - [ ] `exercícios` Lingua | **Input** e **Output**
 - [ ] `prática` Alcançar nivel A2
 
