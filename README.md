@@ -13,5 +13,14 @@
 ## ACA
 - [X] `disciplina` Fundamentos e Arquitetura de Computadores
 - [X] `disciplina` Redes de Computadores
+      
+  ---
+
 - [X] `disciplina` GO - Projeto de Vida
 - [ ] `disciplina` Matemática Aplicada à Computação
+      
+  ---
+
+- [ ] `disciplina` Produção do Conhecimento Científico, Tecnológico e Disrupção
+- [ ] `disciplina` Engenharia de Software
+
