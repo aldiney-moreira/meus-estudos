@@ -17,7 +17,7 @@
   ---
 
 - [X] `disciplina` GO - Projeto de Vida
-- [ ] `disciplina` Matemática Aplicada à Computação
+- [X] `disciplina` Matemática Aplicada à Computação
       
   ---
 
