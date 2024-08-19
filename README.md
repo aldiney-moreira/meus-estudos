@@ -19,6 +19,6 @@
 - [X] `disciplina` Matemática Aplicada à Computação
 
 ### 2º semestre
-- [ ] `disciplina` Produção do Conhecimento Científico, Tecnológico e Disrupção
+- [X] `disciplina` Produção do Conhecimento Científico, Tecnológico e Disrupção
 - [ ] `disciplina` Engenharia de Software
 
