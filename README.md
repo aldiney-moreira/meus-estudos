@@ -3,7 +3,7 @@
 ## DEV
 - [ ] `teoria` Origamid | Vue
 - [ ] `exercícios` Exercism | JavaScript
-- [ ] `prática` Bookmark landing page
+- [ ] `prática` Multi-step form
 
 ## ING
 - [ ] `teoria` Kultivi | Inglês Online
