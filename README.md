@@ -23,3 +23,6 @@
 - [ ] `disciplina` Algoritmos e Lógica de Programação
 - [ ] `disciplina` Linguagem e Técnicas de Programação
 
+### 3º semestre
+- [ ] `disciplina` Análise e Projeto Orientado a Objetos
+
