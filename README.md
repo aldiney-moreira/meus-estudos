@@ -25,4 +25,5 @@
 
 ### 3º semestre
 - [ ] `disciplina` Análise e Projeto Orientado a Objetos
+- [ ] `disciplina` Mentalidade Criativa e Empreendedora
 
