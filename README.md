@@ -27,4 +27,5 @@
 - [ ] `disciplina` Análise e Projeto Orientado a Objetos
 - [ ] `disciplina` Mentalidade Criativa e Empreendedora
 - [ ] `disciplina` Estruturas de Dados
+- [ ] `disciplina` Programação Front End
 
