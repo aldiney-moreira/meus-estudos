@@ -1,9 +1,8 @@
 # Meus Estudos
 
 ## DEV
-- [ ] `teoria` Origamid | Vue
-- [ ] `exercícios` Exercism | JavaScript
-- [ ] `prática` Multi-step form
+- [ ] `projeto` Todo app
+- [ ] `projeto` Multi-step form
 
 ## ING
 - [ ] `teoria` Kultivi | Inglês Online
