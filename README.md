@@ -5,8 +5,7 @@
 - [ ] `projeto` Multi-step form
 
 ## ING
-- [ ] `teoria` Kultivi | Inglês Online
-- [ ] `exercícios` Lingua | **Input** e **Output**
+- [ ] `exercícios` Lingua.com
 - [ ] `prática` Alcançar nivel A2
 
 ## ACA
