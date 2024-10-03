@@ -1,4 +1,4 @@
-## ACA
+## Faculdade
 ### 1º semestre
 - [X] `disciplina` Fundamentos e Arquitetura de Computadores
 - [X] `disciplina` Redes de Computadores
