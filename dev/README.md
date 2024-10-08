@@ -1,5 +1,5 @@
 # Desenvolvimento Web
 
 ## Projetos
-- [ ] Todo app
-- [ ] Multi-step form
+- [ ] Todo App
+- [ ] Multi-step Form
