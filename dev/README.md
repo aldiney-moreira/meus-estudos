@@ -2,4 +2,4 @@
 
 ## Projetos
 - [ ] Todo App
-- [ ] Multi-step Form
+- [ ] Multi-Step Form
