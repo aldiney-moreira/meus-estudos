@@ -1,1 +1,0 @@
-# GO - Projeto de Vida
