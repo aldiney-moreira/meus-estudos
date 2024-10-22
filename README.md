@@ -8,5 +8,3 @@ Neste repositório, vou centralizar os meus estudos, organizados em diferentes c
 - **[Faculdade](https://github.com/aldiney-moreira/my-studies/tree/main/college)**: Conteúdos e atividades da minha jornada acadêmica.
 - **[Inglês](https://github.com/aldiney-moreira/my-studies/tree/main/eng)**: Recursos e exercícios para aprimorar minhas habilidades no idioma.
 - **[Livros](https://github.com/aldiney-moreira/my-studies/tree/main/books)**: Leituras recomendadas e resumos dos livros que estou estudando.
-
-Sinta-se à vontade para explorar e acompanhar meu progresso!
