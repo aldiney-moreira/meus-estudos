@@ -1,6 +1,6 @@
 # Meus Estudos
 
-Neste repositório, vou centralizar os meus estudos, organizados em diferentes categorias para facilitar a navegação.
+Neste repositório, vou centralizar os meus estudos.
 
 ## Categorias
 
