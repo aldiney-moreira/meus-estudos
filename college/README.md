@@ -8,7 +8,7 @@
 ### 2º semestre
 - [X] `disciplina` Produção do Conhecimento Científico, Tecnológico e Disrupção
 - [X] `disciplina` Engenharia de Software
-- [ ] `disciplina` Algoritmos e Lógica de Programação
+- [X] `disciplina` Algoritmos e Lógica de Programação
 - [ ] `disciplina` Linguagem e Técnicas de Programação
 
 ### 3º semestre
