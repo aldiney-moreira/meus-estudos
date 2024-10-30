@@ -11,7 +11,7 @@
 - [X] `disciplina` Algoritmos e Lógica de Programação
 - [ ] `disciplina` Linguagem e Técnicas de Programação
 
-### 3º semestre
+## 3º semestre
 - [ ] `disciplina` Análise e Projeto Orientado a Objetos
 - [ ] `disciplina` Mentalidade Criativa e Empreendedora
 - [ ] `disciplina` Estruturas de Dados
