@@ -5,7 +5,7 @@
 - [X] `disciplina` GO - Projeto de Vida
 - [X] `disciplina` Matemática Aplicada à Computação
 
-### 2º semestre
+## 2º semestre
 - [X] `disciplina` Produção do Conhecimento Científico, Tecnológico e Disrupção
 - [X] `disciplina` Engenharia de Software
 - [X] `disciplina` Algoritmos e Lógica de Programação
