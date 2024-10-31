@@ -1,6 +1,6 @@
 # Meus Estudos
 
-Neste repositório, vou centralizar os meus estudos.
+Vou centralizar os meus estudos neste repositório.
 
 ## Categorias
 
