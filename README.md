@@ -1,6 +1,6 @@
 # Meus Estudos
 
-Vou centralizar os meus estudos neste repositório.
+Aqui, irei organizar e centralizar meus estudos, registrando anotações, acompanhando meu progresso e planejando os temas que quero desenvolver. Cada categoria reflete uma área específica para facilitar o acesso aos materiais e o planejamento dos próximos passos.
 
 ## Categorias
 
