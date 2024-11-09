@@ -1,6 +1,6 @@
 # Meus Estudos
 
-Vou organizar e centralizar meus estudos, registrando anotações, acompanhando meu progresso e planejando os temas que quero desenvolver. Cada categoria reflete uma área específica para facilitar o acesso aos materiais e o planejamento dos próximos passos.
+Vou organizar e centralizar meus estudos, registrando anotações, acompanhando meu progresso e planejando os temas que quero desenvolver. Cada categoria reflete uma área específica para facilitar o acesso.
 
 ## Categorias
 
