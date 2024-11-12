@@ -1,10 +1,19 @@
 # Meus Estudos
 
-Vou organizar e centralizar meus estudos, registrando anotações, acompanhando meu progresso e planejando os temas que quero estudar. Cada categoria reflete uma área específica para facilitar o acesso.
+Organizo e centralizo meus estudos aqui, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. Cada categoria reflete uma área específica para facilitar o acesso e a organização.
 
-## Categorias
+### Desenvolvimento
+Materiais e projetos focados em programação e desenvolvimento de software.  
+> [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/development)
 
-- **[Desenvolvimento](https://github.com/aldiney-moreira/my-studies/tree/main/development)**: Materiais e projetos relacionados à programação.
-- **[Faculdade](https://github.com/aldiney-moreira/my-studies/tree/main/college)**: Conteúdos e atividades da minha jornada acadêmica.
-- **[Inglês](https://github.com/aldiney-moreira/my-studies/tree/main/eng)**: Recursos e exercícios para aprimorar minhas habilidades no idioma.
-- **[Livros](https://github.com/aldiney-moreira/my-studies/tree/main/books)**: Anotações dos livros que estou lendo.
+### Faculdade
+> Conteúdos e atividades relacionadas à minha jornada acadêmica.  
+> [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/college)
+
+### Inglês
+> Recursos e exercícios voltados ao aprimoramento das minhas habilidades no idioma.  
+> [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/eng)
+
+### Livros
+> Anotações e insights dos livros que estou lendo.  
+> [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/books)
