@@ -1,18 +1,18 @@
 # Faculdade
 ## 1º semestre
-- [X] `disciplina` Fundamentos e Arquitetura de Computadores
-- [X] `disciplina` Redes de Computadores
-- [X] `disciplina` GO - Projeto de Vida
-- [X] `disciplina` Matemática Aplicada à Computação
+- [X] Fundamentos e Arquitetura de Computadores
+- [X] Redes de Computadores
+- [X] GO - Projeto de Vida
+- [X] Matemática Aplicada à Computação
 
 ## 2º semestre
-- [X] `disciplina` Produção do Conhecimento Científico, Tecnológico e Disrupção
-- [X] `disciplina` Engenharia de Software
-- [X] `disciplina` Algoritmos e Lógica de Programação
-- [ ] `disciplina` Linguagem e Técnicas de Programação
+- [X] Produção do Conhecimento Científico, Tecnológico e Disrupção
+- [X] Engenharia de Software
+- [X] Algoritmos e Lógica de Programação
+- [ ] Linguagem e Técnicas de Programação
 
 ## 3º semestre
-- [ ] `disciplina` Análise e Projeto Orientado a Objetos
-- [ ] `disciplina` Mentalidade Criativa e Empreendedora
-- [ ] `disciplina` Estruturas de Dados
-- [ ] `disciplina` Programação Front End
+- [ ] Análise e Projeto Orientado a Objetos
+- [ ] Mentalidade Criativa e Empreendedora
+- [ ] Estruturas de Dados
+- [ ] Programação Front End
