@@ -1,6 +1,6 @@
 # Meus Estudos
 
-Organizo e centralizo meus estudos aqui, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. Cada categoria reflete uma área específica para facilitar o acesso e a organização.
+Neste repositório, organizo e centralizo meus estudos aqui, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. Cada categoria reflete uma área específica para facilitar o acesso e a organização.
 
 ### Desenvolvimento
 > Materiais e projetos focados em programação e desenvolvimento de software.  
