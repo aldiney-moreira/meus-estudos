@@ -2,7 +2,7 @@
 
 Organizo e centralizo meus estudos aqui, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. Cada categoria reflete uma área específica para facilitar o acesso e a organização.
 
-### Desenvolvimento Web
+### Desenvolvimento
 > Materiais e projetos focados em programação e desenvolvimento de software.  
 > [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/development)
 
