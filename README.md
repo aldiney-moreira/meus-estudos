@@ -6,13 +6,13 @@ Aqui vou organizar meus estudos, com anotações, acompanhamento de progresso e 
 > Materiais e projetos focados em programação e desenvolvimento de software.  
 > [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/development)
 
-### Faculdade
-> Conteúdos e atividades relacionadas à minha jornada acadêmica.  
-> [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/college)
-
 ### Inglês
 > Recursos e exercícios voltados ao aprimoramento das minhas habilidades no idioma.  
 > [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/eng)
+
+### Faculdade
+> Conteúdos e atividades relacionadas à minha jornada acadêmica.  
+> [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/college)
 
 ### Livros
 > Anotações e insights dos livros que estou lendo.  
