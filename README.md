@@ -1,6 +1,6 @@
 # Meus Estudos
 
-Aqui vou organizar meus estudos, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. Cada categoria reflete uma área específica para facilitar o acesso e a organização.
+Aqui vou organizar meus estudos, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. 
 
 ### Desenvolvimento
 > Materiais e projetos focados em programação e desenvolvimento web.  
