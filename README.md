@@ -1,7 +1,5 @@
 # Meus Estudos
 
-Aqui vou organizar meus estudos, com anotações, acompanhamento de progresso e planejamento dos temas que quero estudar. 
-
 ### Desenvolvimento
 > Materiais e projetos focados em programação e desenvolvimento web.  
 > [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/development)
