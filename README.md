@@ -1,7 +1,7 @@
 # Meus Estudos
 
-### Desenvolvimento
-> Materiais e projetos focados em programação e desenvolvimento web.  
+### Desenvolvimento Web
+> Materiais e projetos focados em programação.  
 > [Acessar](https://github.com/aldiney-moreira/my-studies/tree/main/development)
 
 ### Inglês
